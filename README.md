@@ -17,7 +17,6 @@ Os dados utilizados neste projeto são:
 ## 🛠️ Ferramentas Utilizadas
 - SQL (extração e tratamento de dados)
 - Power BI (modelagem e visualização)
-- Modelagem relacional
 
 ---
 
