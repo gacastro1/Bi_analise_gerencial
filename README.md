@@ -5,6 +5,16 @@ Este projeto tem como objetivo transformar dados brutos em informações estrat�
 
 A proposta simula um cenário real de negócio, onde gestores precisam acompanhar indicadores-chave para entender desempenho, identificar problemas e direcionar ações.
 
+## 📸 Dashboard
+
+### Visão Geral
+![Visão Geral](images/visao-geral.png)
+
+### Análises e Filtros
+![Filtros](images/filtros.png)
+
+### Insights
+![Insights](images/insight.png)
 ---
 
 ## 📁 Fonte de Dados
