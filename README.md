@@ -37,20 +37,10 @@ Os dados utilizados neste projeto são:
 
 ---
 
-## 📊 Principais Indicadores (KPIs)
-- [Ex: Receita total]
-- [Ex: Volume de atendimentos]
-- [Ex: Ticket médio]
-- [Ex: Taxa de crescimento]
-- [Ex: Indicadores operacionais]
-
----
-
 ## 🧠 Insights Gerados
-- [Ex: Identificação de queda de desempenho em determinado período]
-- [Ex: Áreas com maior concentração de custos]
-- [Ex: Tendência de crescimento ou redução]
-- [Ex: Gargalos operacionais]
+- A base é mais jovem do que o esperado para um plano corporativo
+- Um critério simples revelou um grupo que merece atenção
+- Quarta e quinta concentram quase metade de todos os atendimentos
   
 
 ## 📌 Considerações Finais
