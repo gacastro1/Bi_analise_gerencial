@@ -9,8 +9,8 @@ A proposta simula um cenário real de negócio, onde gestores precisam acompanha
 
 ## 📁 Fonte de Dados
 Os dados utilizados neste projeto são:
-- [Descreva aqui: vendas, hospitalar, financeiro, etc.]
-- Base anonimizada / dados públicos / dados simulados
+- Saúde Populacional
+- Dados simulados
 
 ---
 
@@ -51,30 +51,10 @@ Os dados utilizados neste projeto são:
 - [Ex: Áreas com maior concentração de custos]
 - [Ex: Tendência de crescimento ou redução]
 - [Ex: Gargalos operacionais]
-
-👉 Aqui é o ponto mais importante: mostre que você **analisa**, não só cria gráfico.
-
----
-
-## 📸 Dashboard
-
-![Dashboard](images/dashboard.png)
-
----
-
-## 🚀 Como Executar o Projeto
-1. Baixar o arquivo `.pbix`
-2. Abrir no Power BI Desktop
-3. Atualizar a fonte de dados (caso necessário)
-
----
+  
 
 ## 📌 Considerações Finais
 Este projeto faz parte do meu desenvolvimento na área de dados, com foco em Business Intelligence e análise estratégica.
 
 Busco aplicar esse conhecimento principalmente em contextos reais, como saúde e operações, onde dados têm impacto direto na tomada de decisão.
 
----
-
-## 🔗 Contato
-[Seu LinkedIn aqui]
