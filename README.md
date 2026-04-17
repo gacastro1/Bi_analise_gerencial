@@ -7,13 +7,13 @@ A proposta simula um cenário real de negócio, onde gestores precisam acompanha
 
 ## 📸 Dashboard
 
-### Visão Geral
+### Perfil da população
 ![Visão Geral](images/visao-geral.png)
 
-### Análises e Filtros
+### Utilização de Serviços
 ![Filtros](images/filtros.png)
 
-### Insights
+### Visão Operacional
 ![Insights](images/insight.png)
 ---
 
