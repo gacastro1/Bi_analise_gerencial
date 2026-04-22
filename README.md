@@ -8,13 +8,13 @@ A proposta simula um cenário real de negócio, onde gestores precisam acompanha
 ## 📸 Dashboard
 
 ### Perfil da População
-
+<img width="1092" height="612" alt="Image" src="https://github.com/user-attachments/assets/0d38429c-8bd2-4b9c-a970-dd9a3b8e3a52" />
 
 ### Utilização de Serviços
-
+<img width="1090" height="614" alt="Image" src="https://github.com/user-attachments/assets/31d0ab69-fc84-47cf-a462-8d8b5243fa36" />
 
 ### Visão Operacional
-
+<img width="1089" height="613" alt="Image" src="https://github.com/user-attachments/assets/2a78fd5a-325a-47f9-b0d8-a906b8dd6655" />
 ---
 
 ## 📁 Fonte de Dados
