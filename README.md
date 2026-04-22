@@ -6,15 +6,16 @@ Este projeto tem como objetivo transformar dados brutos em informações estrat�
 A proposta simula um cenário real de negócio, onde gestores precisam acompanhar indicadores-chave para entender desempenho, identificar problemas e direcionar ações.
 
 ## 📸 Dashboard
+<img width="1424" height="820" alt="Image" src="https://github.com/user-attachments/assets/adf7937d-13a6-4b38-9fee-daadcbcf8baf" />
 
 ### Perfil da População
-<img width="1092" height="612" alt="Image" src="https://github.com/user-attachments/assets/0d38429c-8bd2-4b9c-a970-dd9a3b8e3a52" />
+<img width="1424" height="799" alt="Image" src="https://github.com/user-attachments/assets/2cc15300-2f49-4b81-bb60-2f8d44265e66" />
 
 ### Utilização de Serviços
-<img width="1090" height="614" alt="Image" src="https://github.com/user-attachments/assets/31d0ab69-fc84-47cf-a462-8d8b5243fa36" />
+<img width="1426" height="801" alt="Image" src="https://github.com/user-attachments/assets/d1ff482f-a14d-4cc4-b7bd-1cd50416d8ce" />
 
 ### Visão Operacional
-<img width="1089" height="613" alt="Image" src="https://github.com/user-attachments/assets/2a78fd5a-325a-47f9-b0d8-a906b8dd6655" />
+<img width="1424" height="801" alt="Image" src="https://github.com/user-attachments/assets/e01fd989-5c9c-4291-a8eb-f6fb8b4c7d8f" />
 ---
 
 ## 📁 Fonte de Dados
@@ -50,6 +51,8 @@ Os dados utilizados neste projeto são:
 - A base é mais jovem do que o esperado para um plano corporativo
 - Um critério simples revelou um grupo que merece atenção
 - Quarta e quinta concentram quase metade de todos os atendimentos
+
+  <img width="635" height="825" alt="Image" src="https://github.com/user-attachments/assets/633cccf1-c8e7-462f-be67-1a6ae8aa5cfc" />
   
 
 ## 📌 Considerações Finais
